@@ -1,2 +1,12 @@
-# SpongeLab
-A project about the Lab that I have been completed or  in progress
+##### SpongeLab
+* Distributed System
+      * MIT 6.824
+* Computer Graphics
+
+* Machine Learning
+
+* Computer Vision
+
+* Natural Language Processing
+
+* Knowledge Graph
