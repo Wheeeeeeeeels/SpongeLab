@@ -1,6 +1,6 @@
 ##### SpongeLab
 * Distributed System
-      * MIT 6.824
+   * MIT 6.824
 * Computer Graphics
 
 * Machine Learning
