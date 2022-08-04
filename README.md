@@ -1,4 +1,4 @@
-##### SpongeLab
+#### SpongeLab
 * Distributed System
    * MIT 6.824
 * Computer Graphics
