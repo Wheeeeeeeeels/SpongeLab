@@ -4,6 +4,7 @@
 * Computer Graphics
    * Games 202
    * Games 102
+   * CMU 15-456
 
 * Machine Learning
 
@@ -14,3 +15,4 @@
     * CS234N
 
 * Knowledge Graph
+     * CS234W
