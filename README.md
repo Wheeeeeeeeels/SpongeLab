@@ -6,6 +6,10 @@
    * Games 102
    * CMU 15-456
 
+* Compiler
+   * CS143
+   * PLAI Brown
+
 * Machine Learning
 
 * Computer Vision
